@@ -1,0 +1,12 @@
+.mov-container{
+   padding-left: 50px;
+   height: 100vh;
+   width: 200vh;
+   background-color: #151515;
+}
+.top-mov{
+    height: 300px;
+    width: 100%;  
+    
+    background: linear-gradient(to bottom, rgba(0,0,0,0), #151515), url('background.jpg');  
+}
